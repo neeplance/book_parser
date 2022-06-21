@@ -1,6 +1,8 @@
-Requirements to run this bot
-Python 3.8 (Preferably)
--pip install requests
--pip install beautifulsoup4
--pip install lxml
-Open file "main.py" via cmd console
+### Requirements to run this bot
+
+1. Python 3.8 (Preferably)
+2. -pip install requests
+3. -pip install beautifulsoup4
+4. -pip install lxml
+5. Open file "parser.py" via cmd console
+ 
